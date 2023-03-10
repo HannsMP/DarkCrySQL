@@ -1,0 +1,12 @@
+{
+  "name": "darkcrysql",
+  "version": "1.0.0",
+  "description": "una api de base de datos relacionales estructurada a base de node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
